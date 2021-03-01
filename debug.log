@@ -1,0 +1,4 @@
+[0301/011717.997:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0301/011717.999:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
+[0301/011718.048:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0301/011718.049:ERROR:file_io.cc(90)] ReadExactly: expected 40, observed 0
